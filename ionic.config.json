@@ -1,0 +1,7 @@
+{
+  "name": "AADIVINA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
